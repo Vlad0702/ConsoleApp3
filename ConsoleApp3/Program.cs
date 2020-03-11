@@ -16,7 +16,6 @@ namespace ConsoleApp3
             Console.WriteLine("Число в квадрате = ");
             Console.WriteLine(li);
             Console.ReadKey();
-
-        }
+         }
     }
 }
